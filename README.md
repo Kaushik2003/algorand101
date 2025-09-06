@@ -1,5 +1,6 @@
 🩺 Medical Report Smart Contract
-![alt text](image.png)
+<img width="1891" height="926" alt="image" src="https://github.com/user-attachments/assets/2e9ee616-fb8f-4174-a6fa-6425fe06b267" />
+
 contract address:https://lora.algokit.io/testnet/application/745477567
 
 This project implements a simple Algorand smart contract in TypeScript that manages medical reports on-chain. It demonstrates how to use global state in Algorand smart contracts for securely storing and updating key information.
